@@ -1,3 +1,9 @@
+/*
+Write a program that reads 3 points in the plane (with integer x and y as coordinates),
+calculates and prints the area of the triangle composed by these 3 points. Round the result to a whole number.
+In case the three points do not form a triangle, print "0" as result.
+*/
+
 package AdvancedJava.IntroToJava;
 
 import java.util.Scanner;

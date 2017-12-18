@@ -1,3 +1,12 @@
+/*
+Write a program that reads three floating point numbers a, b, and c from the console and calculates the following expressions:
+"f1 = ((a2 + b2) / (a2 – b2))(a + b + c) / √c"  "f2 = (a2 + b2 - c3)(a – b)"
+Then the program calculates the absolute value of the difference between the average of the three numbers and the average
+of the two expressions.
+"Abs (Avg (a, b, c) – Avg (f1, f2))"
+You will receive a, b and c on a single line, separated by one or more white spaces.
+*/
+
 package AdvancedJava.IntroToJava;
 
 import java.util.Scanner;

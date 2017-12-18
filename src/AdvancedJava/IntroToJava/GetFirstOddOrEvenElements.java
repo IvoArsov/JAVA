@@ -1,3 +1,8 @@
+/*
+Write a program that returns the first N odd/even elements from a collection. Return as many as you can.
+Format of the input: Get {number of elements} {odd/even}
+ */
+
 package AdvancedJava.IntroToJava;
 
 import java.util.ArrayList;

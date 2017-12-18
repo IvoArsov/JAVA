@@ -1,3 +1,8 @@
+/*
+Write a program that takes as input an integer – the target – and outputs to the console
+all pairs of numbers between 1 and 20, which, if added or subtracted, result in the target.
+ */
+
 package AdvancedJava.IntroToJava;
 
 import java.util.Scanner;

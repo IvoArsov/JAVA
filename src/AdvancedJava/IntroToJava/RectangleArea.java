@@ -1,3 +1,8 @@
+/*
+Write a program that reads the sides of a rectangle (two integers a and b),
+calculates and prints the rectangle's area. Format the result to the second digit after the decimal separator.
+*/
+
 package AdvancedJava.IntroToJava;
 
 import java.util.Scanner;
