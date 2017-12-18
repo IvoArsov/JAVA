@@ -1,13 +1,14 @@
 /*
 Write a program that reads 3 numbers:
-*an integer a (0 ≤ a ≤ 500)
-*a floating-point b
-*a floating-point c
-Print them in 4 virtual columns on the console, separated with a pipe '|'. Each column should have a width of 10 characters.
-*First, the number a should be printed in hexadecimal, left aligned
-*Second, the number a should be printed in binary form, padded with zeroes
-*Third, the number b should be printed with 2 digits after the decimal point, right aligned
-*Lastly, the number c should be printed with 3 digits after the decimal point, left aligned
+-an integer a (0 ≤ a ≤ 500)
+-a floating-point b
+-a floating-point c
+Print them in 4 virtual columns on the console, separated with a pipe '|'.
+Each column should have a width of 10 characters.
+-First, the number a should be printed in hexadecimal, left aligned
+-Second, the number a should be printed in binary form, padded with zeroes
+-Third, the number b should be printed with 2 digits after the decimal point, right aligned
+-Lastly, the number c should be printed with 3 digits after the decimal point, left aligned
 You will receive a, b and c on a single line, separated by one or more white spaces.
 */
 

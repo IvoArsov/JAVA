@@ -1,12 +1,12 @@
 /*
 Create a method that calculates a triangle area by a given:
-*Base
-*Height
+-Base
+-Height
 Return the area as an output of the program. Format the result to the second digit after the decimal separator.
 */
 
 
-package AdvancedJava.Abstraction.Lab;
+package AdvancedJava.Abstraction;
 
 import java.util.Scanner;
 
