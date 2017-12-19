@@ -1,6 +1,6 @@
 package OOPBasics.DefiningClasses.DefineBankAccountClass;
 
 public class BankAccount {
-    public int id;
-    public double balance;
+    public int Id;
+    public double Balance;
 }

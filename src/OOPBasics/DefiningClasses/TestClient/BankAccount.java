@@ -1,4 +1,4 @@
-package OOPBasics.DefiningClasses.GettersAndSetters;
+package OOPBasics.DefiningClasses.TestClient;
 
 public class BankAccount {
     private int Id;

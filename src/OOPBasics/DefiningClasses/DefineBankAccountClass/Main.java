@@ -11,9 +11,9 @@ public class Main {
     public static void main(String[] args) {
         BankAccount acc = new BankAccount();
 
-        acc.id = 1;
-        acc.balance = 5432.13;
+        acc.Id = 1;
+        acc.Balance = 5432.13;
 
-        System.out.printf("Account ID - %d\nBalance - %.2f", acc.id, acc.balance);
+        System.out.printf("Account ID - %d\nBalance - %.2f", acc.Id, acc.Balance);
     }
 }
